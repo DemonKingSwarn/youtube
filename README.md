@@ -6,7 +6,8 @@ I currently have two YouTube channels:
 | -------                                                                  | -----------                                                                                                              |
 | [DemonKingSwarn](https://www.youtube.com/@demonkingswarn) (main channel) | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCC1yT9JzYwz6dDwLM-KWt0A?style=social) |
 | [Swarnaaa](https://www.youtube.com/@swarn7) (second channel)             | ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHfWKreQg67_-Vmbj_iR-Pw=social)       |
-|                                                                          |                                                                                                                          |
+
+
 This repository is a home for my YouTube production process, my thoughts on video creation and workflows, and sometimes stores things related to channel videos or series, if the work doesn't fit better in some other repository.
 
 Since I started my work in computing, I loved the open source philosophy, and I develop almost every line of code in the open. This repo is an extension of that philosophy.
